@@ -1,0 +1,13 @@
+{
+    "erkekRolu": "erkek-rol-id",
+    "kizRolu": "kiz-rol-id",
+    "kayitsizRolu": "kayitsiz-rol-id",
+    "kayitciRolu": "kayitci-rol-id",
+    "chatKanali": "chat-kanali-id",
+    "registerChat": "reg-kanal-id",
+    "carpiEmoji": "carpi-emoji-id",
+    "tikEmoji": "tik-emoji-id",
+    "rules": "kural-kanal-id",
+    "botSesKanali": "bot-kanal-id",
+    "otorolLog": "otorol-kanal-id"
+}
